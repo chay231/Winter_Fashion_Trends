@@ -15,7 +15,8 @@ Project Management: версионность и документация на Gi
 4) Инструменты: GoogleColab, GitHub Desktop, Yandex DataLens
 
 **Ссылка на визуализацию в Yandex DataLens**
-[Yandex](https://datalens.ru/workbooks/vgm3h7aoewo6f)
+[Yandex DataLens](https://datalens.ru/workbooks/vgm3h7aoewo6f)
+[DashBoard](https://datalens.yandex/yjp9e3q0lqvwi)
 
 **Ссылка на Google Colab**
 [Google](https://colab.research.google.com/drive/1mYCqPGBBNHx2RUzbPTc-MoEEQxZgURO8)
